@@ -2,6 +2,8 @@
 
 React Context provides an elegant way of sharing data between components.
 
+See the demo [here](https://dciforks.github.io/useContext-demo).
+
 In its simplest form, a React Context is an object which contains two properties: Provider and Consumer.
 
 The Provider gives other components access to whatever is stored in its `value` property. By customizing the Provider's `value` property, you can share data and functions with multiple components.

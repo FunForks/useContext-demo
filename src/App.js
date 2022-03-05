@@ -16,6 +16,7 @@ const App = () => {
 
   return (
     <div className="App">
+      <h1>Demo of useContext</h1>
       Variable is: "{variable}"
       <br />
       <SubComponent />
